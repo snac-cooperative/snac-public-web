@@ -1,0 +1,10 @@
+{
+    "name": "snac/snac-public-web",
+    "description": "Public Web Documentation for SNAC",
+    "license": "CC0",
+    "authors": [
+        {
+            "name": "SNAC Cooperative"
+        }
+    ]
+}
